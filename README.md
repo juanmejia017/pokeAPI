@@ -49,3 +49,4 @@ Se usa la [**PokéAPI oficial**](https://pokeapi.co/), un servicio gratuito que 
 
 ![Vista Principal](./capturas/prueba_poke_api.png)
 ![Boton cargar mas](./capturas/prueba3_poke_api.png)
+![postman](./capturas/postman_get.png)
